@@ -1,0 +1,7 @@
+numpy~=1.19.5
+torch~=1.9.1
+torchvision~=0.8.2
+pyldpc~=0.7.9
+tqdm~=4.46.1
+statsmodels~=0.12.2
+bitstring~=3.1.7
